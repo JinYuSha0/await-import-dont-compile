@@ -1,0 +1,26 @@
+{
+  "name": "await-import-dont-compile",
+  "version": "0.0.2",
+  "description": "Prevent typescript from compiling your import function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "import",
+    "prevent",
+    "compiling",
+    "compilation"
+  ],
+  "homepage": "https://github.com/JinYuSha0/await-import-dont-compile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JinYuSha0/await-import-dont-compile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JinYuSha0/await-import-dont-compile/issues"
+  },
+  "author": "JinYuSha0",
+  "license": "ISC"
+}
